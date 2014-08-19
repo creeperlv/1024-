@@ -1,0 +1,10 @@
+<ProgamStart:
+/consleout Auto Move Cards 0.1a
+>Wait 2000
+>Left 200
+>Up 100
+>Left 100
+>Down 100
+>Wait 2000
+/consleout Move Finished!
+:PragamEnd>

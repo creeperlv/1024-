@@ -1,0 +1,5 @@
+<ProgamStart:
+/Wait 120000
+>Save autosave
+>Run a
+:ProgamEnd>

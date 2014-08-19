@@ -1,0 +1,6 @@
+<ProgamStart:
+>BeEasy
+setTextrue using
+setSpawn<false>
+Spawn 1024
+:ProgamEnd>
