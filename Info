@@ -1,6 +1,8 @@
 -1024+ Grass (0.4.5)
-  -Publish with a launcher(1.2.1).
-  -Color title.
+  -Color title
+  -The game window will be resizeble.
+  -New API(More support for VISUAL).
+  -Publish with '1024+ Launcher 1.2.2'.
   -Fix some bugs.
 -1024+ Launcher 1.2.1
   -Fix some error.
